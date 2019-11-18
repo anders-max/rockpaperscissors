@@ -4,6 +4,12 @@
 
 //GLOBAL VARIABLES
 /* global $ */
+$("button").click(function(){
+    let random = Math.random();
+    console.log(random);
+
+})
+
 
 
 
